@@ -1,9 +1,9 @@
 {
     "name": "refactoring/time",
     "type": "library",
-    "description": "Utility classes",
+    "description": "Facilitates working with intervals",
     "keywords": ["date","interval"],
-    "homepage": "http://github.com/khelonium/refactoring.ro",
+    "homepage": "https://github.com/khelonium/refactoring-time",
     "license": "MIT",
     "authors": [
         {
