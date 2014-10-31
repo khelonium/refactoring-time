@@ -10,7 +10,7 @@ Example
 
 $lastMonth = new LastMonth();
 
-
+```php
 echo "First of last month was ",$lastMonth->getStart()->format("Y-m-d"),"\n";
 
 $today = new \DateTime();
@@ -29,4 +29,6 @@ $thisYear = new ThisYear();
 if ($thisYear->overlaps($lastMonth)) {
     echo "This year overlaps with last month \n";
 }
+
+```
 
